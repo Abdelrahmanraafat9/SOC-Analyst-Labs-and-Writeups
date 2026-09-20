@@ -14,7 +14,7 @@ Welcome to my cybersecurity lab write-ups repository! Here, I document my practi
 ### 🔷 CyberDefenders Labs
 | Lab Name | Category | Key Tools Used | Write-up Link |
 | :--- | :--- | :--- | :--- |
-| *Coming Soon* | Phishing / Memory | - | - |
+| **JetBrains** | Network Forensics | Wireshark, NetworkMiner | [View Writeup](./CyberDefenders/Network-Forensics/JetBrains/) |
 
 ### 🔶 TryHackMe Rooms
 | Room Name | Topic | Write-up Link |
