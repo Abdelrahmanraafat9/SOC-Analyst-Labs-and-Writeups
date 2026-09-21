@@ -13,6 +13,8 @@
 During a security monitoring session, an alert indicated a potential compromise on the web server running JetBrains TeamCity. Analysis of the network traffic capture (PCAP) confirmed that an external attacker exploited a vulnerability to execute unauthorized commands, upload a malicious webshell (`NSt8bHTg.zip` containing a `.jsp` shell), and attempt local user credential tampering and container escape.
 
 ---
+<img width="1247" height="648" alt="Screenshot 2026-09-21 171648" src="https://github.com/user-attachments/assets/5c55c9b5-ef8b-4d6f-a32d-8e5db7e78891" />
+
 
 ## 2. Threat Classification & MITRE ATT&CK Mapping
 | Tactic | Technique | ID | Description |
