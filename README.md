@@ -15,11 +15,7 @@ Welcome to my cybersecurity lab write-ups repository! Here, I document my practi
 | Lab Name | Category | Key Tools Used | Write-up Link |
 | :--- | :--- | :--- | :--- |
 | **JetBrains** | Network Forensics | Wireshark, NetworkMiner | [View Writeup](./CyberDefenders/Network-Forensics/JetBrains/) |
-
-### 🔶 TryHackMe Rooms
-| Room Name | Topic | Write-up Link |
-| :--- | :--- | :--- |
-| *Coming Soon* | Security Basics | - |
+| **Oski** | Malware Analysis | Any.Run, CyberChef | [View Writeup](./CyberDefenders/Malware-Analysis/Oski/) |
 
 ---
 
