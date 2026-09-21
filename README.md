@@ -17,6 +17,7 @@ Welcome to my cybersecurity lab write-ups repository! Here, I document my practi
 | **Tomcat Takeover** | Network Forensics | Wireshark | [View Writeup](./CyberDefenders/Network-Forensics/Tomcat-Takeover/) |
 | **PsExec Hunt** | Network Forensics | Wireshark | [View Writeup](./CyberDefenders/Network-Forensics/PsExec-Hunt/) |
 | **PoisonedCredentials** | Network Forensics | Wireshark | [View Writeup](./CyberDefenders/Network-Forensics/PoisonedCredentials/) |
+| **BlackEnergy** | Memory Forensics | Volatility 2/3 | [View Writeup](./CyberDefenders/Memory-Forensics/BlackEnergy/) |
 | **Oski** | Malware Analysis | Any.Run, CyberChef | [View Writeup](./CyberDefenders/Malware-Analysis/Oski/) |
 | **Red Stealer** | Threat Intelligence | VirusTotal, MalwareBazaar | [View Writeup](./CyberDefenders/Malware-Analysis/Red-Stealer/) |
 | **Yellow RAT** | Threat Intelligence | VirusTotal, CyberChef | [View Writeup](./CyberDefenders/Malware-Analysis/Yellow-RAT/) |
