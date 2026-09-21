@@ -9,14 +9,12 @@ Welcome to my cybersecurity lab write-ups repository! Here, I document my practi
 
 ---
 
-## 📂 Lab Write-ups Index
-
 ### 🔷 CyberDefenders Labs
 | Lab Name | Category | Key Tools Used | Write-up Link |
 | :--- | :--- | :--- | :--- |
 | **JetBrains** | Network Forensics | Wireshark, NetworkMiner | [View Writeup](./CyberDefenders/Network-Forensics/JetBrains/) |
 | **Oski** | Malware Analysis | Any.Run, CyberChef | [View Writeup](./CyberDefenders/Malware-Analysis/Oski/) |
-
+| **Red Stealer** | Threat Intelligence | VirusTotal, MalwareBazaar | [View Writeup](./CyberDefenders/Malware-Analysis/Red-Stealer/) |
 ---
 
 ## ✉️ Connect with Me
